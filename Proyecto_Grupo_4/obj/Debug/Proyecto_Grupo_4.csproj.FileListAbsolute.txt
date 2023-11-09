@@ -1,0 +1,30 @@
+C:\Users\Ezer\Desktop\Estructura de Datos\Proyecto_Grupo_4\Proyecto_Grupo_4\bin\Debug\Proyecto_Grupo_4.exe.config
+C:\Users\Ezer\Desktop\Estructura de Datos\Proyecto_Grupo_4\Proyecto_Grupo_4\bin\Debug\Proyecto_Grupo_4.exe
+C:\Users\Ezer\Desktop\Estructura de Datos\Proyecto_Grupo_4\Proyecto_Grupo_4\bin\Debug\Proyecto_Grupo_4.pdb
+C:\Users\Ezer\Desktop\Estructura de Datos\Proyecto_Grupo_4\Proyecto_Grupo_4\obj\Debug\Proyecto_Grupo_4.csproj.AssemblyReference.cache
+C:\Users\Ezer\Desktop\Estructura de Datos\Proyecto_Grupo_4\Proyecto_Grupo_4\obj\Debug\Proyecto_Grupo_4.Form1.resources
+C:\Users\Ezer\Desktop\Estructura de Datos\Proyecto_Grupo_4\Proyecto_Grupo_4\obj\Debug\Proyecto_Grupo_4.Properties.Resources.resources
+C:\Users\Ezer\Desktop\Estructura de Datos\Proyecto_Grupo_4\Proyecto_Grupo_4\obj\Debug\Proyecto_Grupo_4.csproj.GenerateResource.cache
+C:\Users\Ezer\Desktop\Estructura de Datos\Proyecto_Grupo_4\Proyecto_Grupo_4\obj\Debug\Proyecto_Grupo_4.csproj.CoreCompileInputs.cache
+C:\Users\Ezer\Desktop\Estructura de Datos\Proyecto_Grupo_4\Proyecto_Grupo_4\obj\Debug\Proyecto_Grupo_4.exe
+C:\Users\Ezer\Desktop\Estructura de Datos\Proyecto_Grupo_4\Proyecto_Grupo_4\obj\Debug\Proyecto_Grupo_4.pdb
+C:\Users\USUARIO\Downloads\Estructura de Datos\Proyecto_Grupo_4\bin\Debug\Proyecto_Grupo_4.exe.config
+C:\Users\USUARIO\Downloads\Estructura de Datos\Proyecto_Grupo_4\bin\Debug\Proyecto_Grupo_4.exe
+C:\Users\USUARIO\Downloads\Estructura de Datos\Proyecto_Grupo_4\bin\Debug\Proyecto_Grupo_4.pdb
+C:\Users\USUARIO\Downloads\Estructura de Datos\Proyecto_Grupo_4\obj\Debug\Proyecto_Grupo_4.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\Estructura de Datos\Proyecto_Grupo_4\obj\Debug\Proyecto_Grupo_4.Form1.resources
+C:\Users\USUARIO\Downloads\Estructura de Datos\Proyecto_Grupo_4\obj\Debug\Proyecto_Grupo_4.Properties.Resources.resources
+C:\Users\USUARIO\Downloads\Estructura de Datos\Proyecto_Grupo_4\obj\Debug\Proyecto_Grupo_4.csproj.GenerateResource.cache
+C:\Users\USUARIO\Downloads\Estructura de Datos\Proyecto_Grupo_4\obj\Debug\Proyecto_Grupo_4.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\Estructura de Datos\Proyecto_Grupo_4\obj\Debug\Proyecto_Grupo_4.exe
+C:\Users\USUARIO\Downloads\Estructura de Datos\Proyecto_Grupo_4\obj\Debug\Proyecto_Grupo_4.pdb
+C:\Users\USUARIO\Downloads\Descargas Anteriores\Estructura de Datos\Proyecto_Grupo_4\bin\Debug\Proyecto_Grupo_4.exe.config
+C:\Users\USUARIO\Downloads\Descargas Anteriores\Estructura de Datos\Proyecto_Grupo_4\bin\Debug\Proyecto_Grupo_4.exe
+C:\Users\USUARIO\Downloads\Descargas Anteriores\Estructura de Datos\Proyecto_Grupo_4\bin\Debug\Proyecto_Grupo_4.pdb
+C:\Users\USUARIO\Downloads\Descargas Anteriores\Estructura de Datos\Proyecto_Grupo_4\obj\Debug\Proyecto_Grupo_4.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\Descargas Anteriores\Estructura de Datos\Proyecto_Grupo_4\obj\Debug\Proyecto_Grupo_4.Form1.resources
+C:\Users\USUARIO\Downloads\Descargas Anteriores\Estructura de Datos\Proyecto_Grupo_4\obj\Debug\Proyecto_Grupo_4.Properties.Resources.resources
+C:\Users\USUARIO\Downloads\Descargas Anteriores\Estructura de Datos\Proyecto_Grupo_4\obj\Debug\Proyecto_Grupo_4.csproj.GenerateResource.cache
+C:\Users\USUARIO\Downloads\Descargas Anteriores\Estructura de Datos\Proyecto_Grupo_4\obj\Debug\Proyecto_Grupo_4.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\Descargas Anteriores\Estructura de Datos\Proyecto_Grupo_4\obj\Debug\Proyecto_Grupo_4.exe
+C:\Users\USUARIO\Downloads\Descargas Anteriores\Estructura de Datos\Proyecto_Grupo_4\obj\Debug\Proyecto_Grupo_4.pdb
